@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log*
+.DS_Store
+.env
+api/.env
+api/dist
+web/node_modules
+web/dist
+uploads
+web/tsconfig.tsbuildinfo
